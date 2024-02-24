@@ -18,6 +18,9 @@ Afterwards enter the following command to build and install slock
 
     make clean install
 
+Patches
+------
+- slock-dwmlogo-20210324.diff
 
 Running slock
 -------------
